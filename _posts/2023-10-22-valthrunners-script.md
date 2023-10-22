@@ -3,8 +3,6 @@ layout: post
 title: Valthrunner's Script 🚀
 ---
 
-# Valthrunner's Script 🚀
-
 Welcome to the official repository for the **Valthrunner's Script**! 🎮✨ ![GitHub Repo stars](https://img.shields.io/github/stars/valthrunner/Valthrun?logo=github)
 
 This script enhances Valthrun with automatic updates, seamless maunal mapping via KDMapper, and checks. 

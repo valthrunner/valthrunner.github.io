@@ -43,6 +43,18 @@ Let's explore its fantastic features!
 - If you encounter an error, consult the [official troubleshooting guide](https://wiki.valth.run/#/) for DIY issue resolution.
 - If you can't resolve the issue on your own, join the [Discord](https://discord.gg/ecKbpAPW5T) for community support.
 
+## Share Radar 📡
+
+1. **Download** [here](https://github.com/Valthrun/Valthrun/releases/download/v0.4.1/radar-client.exe)
+
+2. **Run** the .exe
+
+3. **Open** https://radar.valth.run/ and enter the code you got
+
+4. **Send** the link to your friends!
+
+5. **Enjoy the Enhanced Valthrun Experience** 🎉! 
+
 ## Links 🔗
 
 - **Official Repo: [Valthrun](https://github.com/WolverinDEV/Valthrun/)** [![GitHub Stars](https://img.shields.io/github/stars/WolverinDEV/Valthrun.svg?style=social&label=Star)](https://github.com/WolverinDEV/Valthrun/)
